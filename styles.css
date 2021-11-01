@@ -1,0 +1,25 @@
+body {
+    border: 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.content {
+    width: 95%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    font-family:verdana;
+}
+
+p {
+    font-family:verdana;
+    font-size:14px;
+}
